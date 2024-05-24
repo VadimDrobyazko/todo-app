@@ -10,6 +10,8 @@ Technologies
 
 Instructions - 
 
+- Requires Node 14.21.3 to run [LINK](https://www.freecodecamp.org/news/node-version-manager-nvm-install-guide/)
+
 - [CLONE_REPO](https://docs.github.com/ru/repositories/creating-and-managing-repositories/cloning-a-repository)
 
 - Run npm install.
